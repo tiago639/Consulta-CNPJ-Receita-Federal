@@ -51,6 +51,11 @@ Este fluxo utiliza a API pública da ReceitaWS:
 - A automação pode ser personalizada conforme a necessidade da organização.
 
 ---
+## 📄 Licença
 
-**Autor:** Seu Nome  
-**Data de Criação:** Junho de 2025  
+Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+## 👤 Autor
+
+**Tiago Fonseca** 
